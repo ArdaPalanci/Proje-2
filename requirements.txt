@@ -1,0 +1,2 @@
+# Ekstra kütüphane gerekmez.
+# sqlite3 Python ile beraber gelir.
